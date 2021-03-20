@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    text-decoration: double;
+    font-family: Arial;
+    font-size: large;
+    font-weight: 300;
+}
+
+input {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 10px 28px;
+}
